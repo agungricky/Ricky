@@ -1,0 +1,27 @@
+.container{
+
+    .header{
+        width: 90%;
+        background: url('./Hunting.jpg');
+        padding: 2rem;
+        margin: 3rem;
+        text-align: center;
+        height: 60rem;
+    }
+    .Section{
+        background-color: cornflowerblue;
+        display:flex;
+        justify-content: space-around;
+        flex-direction: row;
+        Card{
+            background-color:   brown;
+            width: 2rem;
+            padding: 2rem;
+        }
+
+        .Section-2{
+            background-color: chartreuse 
+        }
+    }
+
+}
